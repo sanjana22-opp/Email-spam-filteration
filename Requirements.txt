@@ -1,0 +1,10 @@
+Requirements:
+Python
+
+Pandas, NumPy
+
+Scikit-learn
+
+Naive Bayes Classifier
+
+CountVectorizer (Bag of Words)
