@@ -24,19 +24,14 @@ We used the **Multinomial Naive Bayes** algorithm, which is a well-known method 
   - `spam`: Converted binary label → `1 = spam`, `0 = ham`
 
 
-.
 
 🚀 How to Run
-
 Clone/download this repository.
 
 Install dependencies:
-
 pip install -r requirements.txt
 
-
 Run the script:
-
 python spam_filter.py
 
 
